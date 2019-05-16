@@ -1,6 +1,6 @@
 # 广告位 
 
-![](https://repository-images.githubusercontent.com/186966820/448bea80-7839-11e9-9f4a-aff0c4283855 logo)
+![logo](https://repository-images.githubusercontent.com/186966820/448bea80-7839-11e9-9f4a-aff0c4283855 "logo")
 一个佛系炒股的操作故事:
 
 -  大家好，我是一个股渣，从大学开始玩股票，但是当时没有钱，就只能虚拟玩了下，结果还赚了钱，当时既开心又郁闷。毕业后 申请了一个炒股开户。
