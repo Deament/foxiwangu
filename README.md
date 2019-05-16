@@ -1,6 +1,6 @@
 # 广告位 
 
-![logo](https://repository-images.githubusercontent.com/186966820/448bea80-7839-11e9-9f4a-aff0c4283855 "logo")
+![logo](https://wx2.sinaimg.cn/orj360/92e8a7f7gy1g33mu866yhj20hs08wq6v.jpg "logo")
 
 一个佛系炒股的操作故事:
 
