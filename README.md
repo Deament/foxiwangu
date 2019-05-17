@@ -10,8 +10,9 @@
 -  2019年5月17日 当前账户的资产情况：
 -  湘潭电化24手，成本7块钱。另一个账户 湘潭电化10手 成本6.125元。 还有康美药业 成本6.389元 买入了47手。
 -  今天股灾，把24手的电话卖了 亏了2850元，当前还持有抗美和10手电化
-![logo](https://wx3.sinaimg.cn/mw690/92e8a7f7gy1g34r6u6slej20u01qc15d.jpg "logo")
 ![logo](https://wx1.sinaimg.cn/mw690/92e8a7f7gy1g34r6u40csj20u01qcqd9.jpg "logo")
+![logo](https://wx3.sinaimg.cn/mw690/92e8a7f7gy1g34r6u6slej20u01qc15d.jpg "logo")
+
 
 
 
